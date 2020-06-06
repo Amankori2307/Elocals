@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Elocals/static/css/main.fdcc92b6.chunk.css",
+    "main.css": "/Elocals/static/css/main.32f0835c.chunk.css",
     "main.js": "/Elocals/static/js/main.3c6166e3.chunk.js",
     "main.js.map": "/Elocals/static/js/main.3c6166e3.chunk.js.map",
     "runtime-main.js": "/Elocals/static/js/runtime-main.b94320e3.js",
@@ -8,9 +8,9 @@
     "static/js/2.c203eef8.chunk.js": "/Elocals/static/js/2.c203eef8.chunk.js",
     "static/js/2.c203eef8.chunk.js.map": "/Elocals/static/js/2.c203eef8.chunk.js.map",
     "index.html": "/Elocals/index.html",
-    "precache-manifest.80f8de4d336ffe632cb43fde0ce41dab.js": "/Elocals/precache-manifest.80f8de4d336ffe632cb43fde0ce41dab.js",
+    "precache-manifest.6144ede167d7888283922200d7090fce.js": "/Elocals/precache-manifest.6144ede167d7888283922200d7090fce.js",
     "service-worker.js": "/Elocals/service-worker.js",
-    "static/css/main.fdcc92b6.chunk.css.map": "/Elocals/static/css/main.fdcc92b6.chunk.css.map",
+    "static/css/main.32f0835c.chunk.css.map": "/Elocals/static/css/main.32f0835c.chunk.css.map",
     "static/js/2.c203eef8.chunk.js.LICENSE.txt": "/Elocals/static/js/2.c203eef8.chunk.js.LICENSE.txt",
     "static/media/Bitmap-6.png": "/Elocals/static/media/Bitmap-6.72f58ec9.png",
     "static/media/Calendar delivery.svg": "/Elocals/static/media/Calendar delivery.a6d03549.svg",
@@ -51,7 +51,7 @@
   "entrypoints": [
     "static/js/runtime-main.b94320e3.js",
     "static/js/2.c203eef8.chunk.js",
-    "static/css/main.fdcc92b6.chunk.css",
+    "static/css/main.32f0835c.chunk.css",
     "static/js/main.3c6166e3.chunk.js"
   ]
 }
